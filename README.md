@@ -48,7 +48,7 @@ pnpm install
 3. Run the Project:
 
 ```shell
-npm run dev
+pnpm run dev
 ```
 
 This will start the development server.
@@ -56,7 +56,7 @@ This will start the development server.
 4. Build the Project:
 
 ```shell
-npm run build
+pnpm run build
 ```
 
 This will generate production-ready builds.
