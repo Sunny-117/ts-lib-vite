@@ -1,7 +1,7 @@
 {
 	"name": "ts-lib-vite",
 	"version": "1.0.0",
-	"description": "Based on Vitejs, Typescript development tool library starter",
+	"description": "A foundation for developing front-end utility libraries using Vite and TypeScript.",
 	"main": "index.js",
 	"scripts": {
 		"lint": "eslint --ext .ts,.jsx,.tsx --fix --quiet ./packages"
