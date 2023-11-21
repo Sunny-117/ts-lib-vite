@@ -35,7 +35,7 @@ Monorepo: 以单一仓库的形式组织，有利于代码管理。
 1. 克隆仓库:
 
 ```shell
-git clone https://github.com/your-username/ts-lib-vite.git
+git clone https://github.com/Sunny-117/ts-lib-vite.git
 cd ts-lib-vite
 ```
 
