@@ -7,6 +7,6 @@
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
-		"shared": "workspace:^1.0.0"
+		"shared": "workspace:*"
 	}
 }
